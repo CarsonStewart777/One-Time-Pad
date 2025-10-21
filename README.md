@@ -1,1 +1,1 @@
-an attempt at One-Time-Pad in Rust, will create CLI soon.
+One-Time-Pad experiment in Rust, not secure due to pseudo-RNG.
